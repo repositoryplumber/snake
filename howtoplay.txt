@@ -1,0 +1,4 @@
+use your arrow keys to move the snake around.
+try to eat the red dot, as it grows your snake longer 
+the longer your snake the better
+by repository plumber :)
